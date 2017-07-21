@@ -1,0 +1,29 @@
+a:link{
+text-decoration:none;
+}
+
+.wrapper{
+
+width: 980px;
+
+}
+
+
+ul{
+
+list-style:none;
+margin: 0;
+padding:0;
+float:right;
+}
+
+li{
+
+
+}
+
+a{
+display:block;
+padding: 5px;
+background-color:#fff;
+}
